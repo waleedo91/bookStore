@@ -1,13 +1,11 @@
 package com.waleed.bookstore.controller;
 
 import com.waleed.bookstore.dto.BookDto;
-import org.springframework.http.HttpEntity;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.awt.print.Book;
 import java.util.ArrayList;
 import java.util.List;
 
